@@ -1,7 +1,5 @@
 # ml-pipeline-assignment4
-
-![CI Status](https://github.com/HAMZA2FEKRY/ml-pipeline-assignment4/actions/workflows/ml-pipeline.yml/badge.svg)
-
+![CI Status](https://github.com/HAMZA2FEKRY/ml-pipeline-assignment4/actions/workflows/ml-pipeline.yml/badge.svg?branch=HAMZA2FEKRY-patch-1)
 ## Overview
 This repository demonstrates an automated ML model validation 
 pipeline using GitHub Actions CI/CD for Assignment 4.
